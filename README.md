@@ -1,7 +1,7 @@
 # Spectral hypervolumes
 Data and R code and data calculating the spectral space (hypervolume) occupied by individual trees in the Forest and Biodiversity I (FAB) and Biodiversity II (BioDIV) experiments at the Cedar Creek Ecosystem Science Reserve (East Bethel, MN). Hypervolume calculations are based on the R package hypervolume, version 2.0.12, by Benjamin Blonder and with contributions from David J. Harris (2019).
 
-## Content:
+## Content
 1) FAB_ind_spec.csv: Leaf-level spectra from FAB
 
 2) FAB_ind_growth.csv: Tree height and diameter for trees in FAB
@@ -18,7 +18,7 @@ Data and R code and data calculating the spectral space (hypervolume) occupied b
 
 8) BB_hypervol_comm.R: Code for calculating the spectral space occupied by communities in BioDIV and their correlation with community productivity and species richness
 
-## Citations:
+## Citations
 Benjamin Blonder and with contributions from David J. Harris (2019). hypervolume: High Dimensional Geometry and Set Operations Using Kernel Density Estimation, Support Vector Machines, and Convex Hulls. R package version 2.0.12. https://CRAN.R-project.org/package=hypervolume
 
 Grossman J.J., Cavender‐Bares J., Hobbie S.E., Reich P.B., Montgomery R.A. 2017 Species richness and traits predict overyielding in stem growth in an early‐successional tree diversity experiment. Ecology 98(10), 2601-2614. https://doi.org/10.1002/ecy.1958
